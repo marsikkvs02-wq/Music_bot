@@ -1,0 +1,5 @@
+aiogram==3.2.0
+python-dotenv==1.0.0
+yt-dlp==2024.3.10
+google-api-python-client==2.111.0
+aiofiles==23.2.1
